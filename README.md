@@ -1,1 +1,1 @@
-This repository contains python code that i wrote while taking udemy course. 
+This repository contains python code that I wrote while taking udemy course. 
